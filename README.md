@@ -1,7 +1,7 @@
 # mysql学习笔记
 
 #### 介绍
-利用mysql community server来学习操作mysql数据库管理系统
+利用mysql server在windows10平台上学习mysql
 
 #### 软件架构
 软件架构说明
