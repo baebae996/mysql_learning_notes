@@ -9,6 +9,7 @@
   2.基础查询(1)：select、distinct、where
   3.基础查询(2)：limit、order by、like
   4.基础查询(3)：聚集函数
+  5.基础查询(4)：group by、having
 
 
 
