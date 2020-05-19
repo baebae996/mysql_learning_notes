@@ -13,6 +13,7 @@
   6. 多表查询(1)：with
   7. 多表查询(2)：自然连接、外连接
   8. 嵌套查询：in、exists
+  9. 表的创建和删除：drop、truncate、delete
 
 
 
