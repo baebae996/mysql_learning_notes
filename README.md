@@ -14,6 +14,7 @@
   7. 多表查询(2)：自然连接、外连接
   8. 嵌套查询：in、exists
   9. 表的创建和删除：drop、truncate、delete
+  10. 数据的插入和更新：insert、update、case-when
 
 
 
